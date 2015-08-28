@@ -1,0 +1,10 @@
+# Site settings
+title: Sustain Fund
+email: MarkBruns@MarkBruns.com
+description: An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.
+baseurl: /SustainFund.github.io
+twitter_username: SustainFund
+github_username:  SustainFund
+
+# Build settings
+markdown: kramdown
