@@ -10,13 +10,15 @@ Developing smart contracts with others depends upon a common frame of reference.
 If it is this difficult making contracts ... is something like going to Mars or exploring all kinds of areas in science just a matter of escapism?
 
 ## LEAD by developing your own technology to drive culture of freedom and responsibility
-Most political decisions are made by crowds of jealous, close-minded zombies who have not had a new idea in decades.  Consensus is always forged by visionary leaders. When there is no vision, no leadership ... then elections are primarily about style ... because people long for anyone who looks like a leader.  People who look like leaders are NEVER EVER EVER true leaders.
+Most political decisions are made by crowds of jealous, close-minded zombies who have not had a new idea in decades.  Consensus is always forged by visionary leaders. When there is no vision, no leadership ... then elections are primarily about style ... because people long for anyone who looks like a leader.  People who look like leaders are NEVER EVER EVER true leaders.  
 
 ## Practice systems thinking
 Understand the lessons of emergent companies ... Conway's Law always applies ... crappy organizations cannot be reformed; at best they can produce reformed crap.
 
 ## Humbly work at learning how to learn
 Develop and EXECUTE your list of 200 ways to learn ... work every single day at making that list better ... if you are not learning something everyday, you are a zombie.
+
+In order to really learn anything, it is necessary to train others. [Plato's Republicans](http://www.platosrepublicans.com/) is a massively open online curriculum for the collaborative study of consensus and antifragile leadership in the absence of coherence and order.
 
 ## Be persistent, just stay at it, show up when you don't feel well
 The essence of being a warrior is to never quit on yourself.
