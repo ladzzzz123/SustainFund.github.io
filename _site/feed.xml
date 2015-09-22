@@ -5,9 +5,75 @@
     <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Sep 2015 00:17:22 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2015 00:17:22 -0500</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2015 12:16:31 -0500</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2015 12:16:31 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>10-20-30 Bizplan Data Template</title>
+        <description>&lt;p&gt;The following is template for Guy Kawasaki’s 10-20-30 startup pitch.  It can be expanded into a business plan.&lt;br /&gt;
+## Introduction&lt;/p&gt;
+
+&lt;p&gt;Insert 30-second elevator speech here and so that people know whether or not to read/listen to the rest of your presentation – do not try to appeal to everyone; appeal ONLY to those who can help you.&lt;/p&gt;
+
+&lt;h2 id=&quot;need-for-productservice&quot;&gt;Need For Product/Service&lt;/h2&gt;
+
+&lt;p&gt;What problem does this product/service solve better than anyone else? Describe the use-case and why anyone &lt;strong&gt;needs&lt;/strong&gt; YOUR product or service?&lt;/p&gt;
+
+&lt;h2 id=&quot;target-clients-or-customers&quot;&gt;Target Clients or Customers&lt;/h2&gt;
+
+&lt;p&gt;Exactly WHO is the target?&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-and-methodology&quot;&gt;Technology and Methodology&lt;/h2&gt;
+
+&lt;p&gt;What is the technology behind the product?  What is the methodology for producing the product?&lt;/p&gt;
+
+&lt;h2 id=&quot;industry-analysis&quot;&gt;Industry Analysis&lt;/h2&gt;
+
+&lt;p&gt;Demonstrate that you have thoroughly developed a network that extends throughout your industry?&lt;/p&gt;
+
+&lt;h2 id=&quot;leadership-advantage&quot;&gt;Leadership Advantage&lt;/h2&gt;
+
+&lt;p&gt;Beyond just your secret sauce, what is your leadership advantage in this space?&lt;/p&gt;
+
+&lt;h2 id=&quot;marketing-plan&quot;&gt;Marketing Plan&lt;/h2&gt;
+
+&lt;p&gt;How do you use different avenues, primarily taking advantage of the Hootsuite platform to tell its STORY.&lt;/p&gt;
+
+&lt;p&gt;“There’s nothing wrong with a CEO who can sell, but if he actually looks like a salesman, he’s probably bad at sales and worse at tech.”  Peter Thiel and Blake Masters (2014-09-16). Zero to One: Notes on Startups, or How to Build the Future.&lt;/p&gt;
+
+&lt;h2 id=&quot;management-analysis&quot;&gt;Management Analysis&lt;/h2&gt;
+
+&lt;p&gt;Every single day we ask ourselves the seven key questions that every business must answer:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Timing&lt;/strong&gt; Is NOW the right time to research OR plan OR develop OR launch OR scale OR pivot OR shelve your particular business idea?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Engineering&lt;/strong&gt; What is the breakthrough technology or methodology you have created beyond just incremental improvements?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Monopoly&lt;/strong&gt; Are you starting with a big share of a small market?  How can you change your idea to be the ONLY good alternative?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;People&lt;/strong&gt; Do you have the right team?  How can you get a better team?  How will you develop your team to always be the best?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Distribution&lt;/strong&gt; Do you have a way to not just create but produce, deliver, distribute, evangelize your product?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Durability&lt;/strong&gt; How will your market position be defensible 10 and 20 years into the future? How will you defend your position?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secret&lt;/strong&gt; Have you identified a unique opportunity that others don’t see?  What is the secret to how you found your secret?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The answers change a bit every single day.  The management task for each day is basically a matter of working through the Strengths, Weaknesses, Opportunities and Threats related to each of these seven big questions.&lt;/p&gt;
+
+&lt;h2 id=&quot;financial-analysis&quot;&gt;Financial Analysis&lt;/h2&gt;
+
+&lt;p&gt;This business cash flows, but why should investors invest?  Maybe they shouldn’t … finding investors is not necessarily the point, but financial analysis should convince others of the sustainability of the enterprise.&lt;/p&gt;
+
+&lt;h2 id=&quot;summarycall-to-action&quot;&gt;Summary—Call to Action&lt;/h2&gt;
+
+&lt;p&gt;Solid businesses continually simplify and sharpening the focus their entire business by enlisting the support of key people who can advance the cause.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2015 03:30:00 -0500</pubDate>
+        <link>/template/2015/09/22/10-20-30.html</link>
+        <guid isPermaLink="true">/template/2015/09/22/10-20-30.html</guid>
+        
+        
+        <category>template</category>
+        
+      </item>
     
       <item>
         <title>Avoiding the cost of erosion in software-as-a-service</title>

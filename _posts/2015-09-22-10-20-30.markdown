@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "10-20-30 Bizplan Data Template"
+date:   2015-09-22 8:30:00
+categories: Template
+---
+
+The following is template for Guy Kawasaki's 10-20-30 startup pitch.  It can be expanded into a business plan.  
+## Introduction
+
+Insert 30-second elevator speech here and so that people know whether or not to read/listen to the rest of your presentation -- do not try to appeal to everyone; appeal ONLY to those who can help you.
+
+## Need For Product/Service
+
+What problem does this product/service solve better than anyone else? Describe the use-case and why anyone **needs** YOUR product or service?  
+
+## Target Clients or Customers
+
+Exactly WHO is the target?
+
+## Technology and Methodology
+
+What is the technology behind the product?  What is the methodology for producing the product?
+
+## Industry Analysis
+
+Demonstrate that you have thoroughly developed a network that extends throughout your industry?  
+
+## Leadership Advantage
+
+Beyond just your secret sauce, what is your leadership advantage in this space?
+
+## Marketing Plan
+
+How do you use different avenues, primarily taking advantage of the Hootsuite platform to tell its STORY.
+
+"There’s nothing wrong with a CEO who can sell, but if he actually looks like a salesman, he’s probably bad at sales and worse at tech.”  Peter Thiel and Blake Masters (2014-09-16). Zero to One: Notes on Startups, or How to Build the Future.
+
+## Management Analysis
+
+Every single day we ask ourselves the seven key questions that every business must answer:
+
+- **Timing** Is NOW the right time to research OR plan OR develop OR launch OR scale OR pivot OR shelve your particular business idea?
+- **Engineering** What is the breakthrough technology or methodology you have created beyond just incremental improvements?
+- **Monopoly** Are you starting with a big share of a small market?  How can you change your idea to be the ONLY good alternative?
+- **People** Do you have the right team?  How can you get a better team?  How will you develop your team to always be the best?
+- **Distribution** Do you have a way to not just create but produce, deliver, distribute, evangelize your product?
+- **Durability** How will your market position be defensible 10 and 20 years into the future? How will you defend your position?
+- **Secret** Have you identified a unique opportunity that others don’t see?  What is the secret to how you found your secret?
+
+The answers change a bit every single day.  The management task for each day is basically a matter of working through the Strengths, Weaknesses, Opportunities and Threats related to each of these seven big questions.
+
+## Financial Analysis
+
+This business cash flows, but why should investors invest?  Maybe they shouldn’t … finding investors is not necessarily the point, but financial analysis should convince others of the sustainability of the enterprise.
+
+## Summary—Call to Action
+
+Solid businesses continually simplify and sharpening the focus their entire business by enlisting the support of key people who can advance the cause.
