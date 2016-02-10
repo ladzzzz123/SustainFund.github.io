@@ -5,24 +5,69 @@
     <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Sep 2015 12:16:31 -0500</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2015 12:16:31 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Tue, 09 Feb 2016 13:05:26 -0600</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2016 13:05:26 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Sustain Fund Fellows Project</title>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Sustain Fund is contemplating a major new project that aims to encourage more startup thinking.  The working title for for this project is Sustain Fund Fellows Project.  We do NOT need people to encourage us with platitudes like “… really like your project, expecting great things, best of luck!”  We are also NOT looking for money or any offers for any kind of material support – even if we ultimately seek partners and collaborators, it is way too early for that!  At this point, what we NEED are questions and criticisms … especially criticisms, but we also welcome questions that provide feedback and indicate need for greater clarity and focus.&lt;/p&gt;
+
+&lt;h1 id=&quot;encourage-shrewd-hard-nosed-startup-thinking&quot;&gt;Encourage Shrewd, Hard-Nosed Startup Thinking&lt;/h1&gt;
+
+&lt;p&gt;We would like to see a healthier, more vibrant startup ecosystem all over the globe.&lt;/p&gt;
+
+&lt;p&gt;The data on startup activity could not be more clear – startups provide ALL new jobs and ALL new wealth creation.  Startups are disruptive and constantly threaten the position of established companies; the tendency of established companies in all industries to move in the direction of consolidation, risk avoidance and monopolistic stifling of new technologies, means that means that startups either are, directly or indirectly, responsible for ALL new innovations.&lt;/p&gt;
+
+&lt;p&gt;Good intentions don’t matter.  Specifically, incubators and accelerators generally FAIL to really encourage more meaningful startup activity … they may result in too many resources being devoted to weak startups doomed to failure.  Accelerators and incubators may facilitate and enable people to consider starting a new business who shouldn’t do so.  Entrepreneurial experience tells us startups never be successful, unless when they are started by people who will not quit, will overcome all kinds of obstacles and simply will not take “No!” for an answer.&lt;/p&gt;
+
+&lt;p&gt;Paradoxically [or maybe it’s not that much of a paradox], making startup formation easier actually is contrary to encouraging startup thinking.&lt;/p&gt;
+
+&lt;h1 id=&quot;venture-philanthropy&quot;&gt;Venture Philanthropy&lt;/h1&gt;
+&lt;p&gt;We believe we are called to genuine kindness, empathy and serving others.  Sustain Fund believes that checkbook charity is idiot compassion or conscience laundering or &lt;em&gt;just&lt;/em&gt; PR.  We experiment with different things; we fail wisely, most things don’t work, we keep trying, we attempt to design smarter experiments so that we can put more effort, resources and capital into what works.
+* Microfinance
+* Crowdfunding
+* Self-directed IRA/401(k) programs
+* Open source
+* Shared resources – AirBNB, Uber, Lyft, Turo&lt;/p&gt;
+
+&lt;h1 id=&quot;fellows-project&quot;&gt;Fellows Project&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thiel Fellowship&lt;/li&gt;
+  &lt;li&gt;yCombinator&lt;/li&gt;
+  &lt;li&gt;Nedspace&lt;/li&gt;
+  &lt;li&gt;YearOfTheStartUp (YOTSU)&lt;/li&gt;
+  &lt;li&gt;MakeFaire&lt;/li&gt;
+  &lt;li&gt;Hackathon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 02:30:00 -0600</pubDate>
+        <link>/blockchain/2016/02/08/Fellows.html</link>
+        <guid isPermaLink="true">/blockchain/2016/02/08/Fellows.html</guid>
+        
+        
+        <category>Blockchain</category>
+        
+      </item>
     
       <item>
         <title>10-20-30 Bizplan Data Template</title>
-        <description>&lt;p&gt;The following is template for Guy Kawasaki’s 10-20-30 startup pitch.  It can be expanded into a business plan.&lt;br /&gt;
-## Introduction&lt;/p&gt;
+        <description>&lt;p&gt;We don’t like wasting much if any time on business plans; we don’t care for wasting a lot of time on startup pitches either.  Neither a good business plan or a great pitch is going to be THE key to successful business, but it can be useful to organize one’s thoughts about a business to present ideas roughly in the format that others are expecting … it’s sort of like people expect a professional speaker to introduce what he’s going to tell them, then tell them in detail and then summarize them what he’s told them.&lt;/p&gt;
+
+&lt;p&gt;The following is a template blatantly plagiarized from Guy Kawasaki’s approach to the 10-20-30 startup pitch.  It can be expanded into a business plan [if that becomes necessary].&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Insert 30-second elevator speech here and so that people know whether or not to read/listen to the rest of your presentation – do not try to appeal to everyone; appeal ONLY to those who can help you.&lt;/p&gt;
 
 &lt;h2 id=&quot;need-for-productservice&quot;&gt;Need For Product/Service&lt;/h2&gt;
 
-&lt;p&gt;What problem does this product/service solve better than anyone else? Describe the use-case and why anyone &lt;strong&gt;needs&lt;/strong&gt; YOUR product or service?&lt;/p&gt;
+&lt;p&gt;What problem does this product/service solve better than anyone else? Describe your vision for how you have re-conceived of the customer use-case and why anyone will absolutely &lt;strong&gt;NEED&lt;/strong&gt; YOUR product or service as soon as they find out your solution is available … if no one needs your product or service, move on to working on something that people simply cannot do without any longer.&lt;/p&gt;
 
 &lt;h2 id=&quot;target-clients-or-customers&quot;&gt;Target Clients or Customers&lt;/h2&gt;
 
-&lt;p&gt;Exactly WHO is the target?&lt;/p&gt;
+&lt;p&gt;Exactly WHO is the target?  Explain your vision for this re-conceived target customer or client.&lt;/p&gt;
 
 &lt;h2 id=&quot;technology-and-methodology&quot;&gt;Technology and Methodology&lt;/h2&gt;
 
@@ -71,7 +116,7 @@
         <guid isPermaLink="true">/template/2015/09/22/10-20-30.html</guid>
         
         
-        <category>template</category>
+        <category>Template</category>
         
       </item>
     
@@ -123,7 +168,7 @@
         
         <category>12</category>
         
-        <category>factor</category>
+        <category>Factor</category>
         
       </item>
     
@@ -171,7 +216,7 @@
         <guid isPermaLink="true">/blockchain/2015/08/16/Blockchain.html</guid>
         
         
-        <category>blockchain</category>
+        <category>Blockchain</category>
         
       </item>
     

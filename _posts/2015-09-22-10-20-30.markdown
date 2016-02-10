@@ -5,18 +5,21 @@ date:   2015-09-22 8:30:00
 categories: Template
 ---
 
-The following is template for Guy Kawasaki's 10-20-30 startup pitch.  It can be expanded into a business plan.  
+We don't like wasting much if any time on business plans; we don't care for wasting a lot of time on startup pitches either.  Neither a good business plan or a great pitch is going to be THE key to successful business, but it can be useful to organize one's thoughts about a business to present ideas roughly in the format that others are expecting ... it's sort of like people expect a professional speaker to introduce what he's going to tell them, then tell them in detail and then summarize them what he's told them.  
+
+The following is a template blatantly plagiarized from Guy Kawasaki's approach to the 10-20-30 startup pitch.  It can be expanded into a business plan [if that becomes necessary].  
+
 ## Introduction
 
 Insert 30-second elevator speech here and so that people know whether or not to read/listen to the rest of your presentation -- do not try to appeal to everyone; appeal ONLY to those who can help you.
 
 ## Need For Product/Service
 
-What problem does this product/service solve better than anyone else? Describe the use-case and why anyone **needs** YOUR product or service?  
+What problem does this product/service solve better than anyone else? Describe your vision for how you have re-conceived of the customer use-case and why anyone will absolutely **NEED** YOUR product or service as soon as they find out your solution is available ... if no one needs your product or service, move on to working on something that people simply cannot do without any longer.  
 
 ## Target Clients or Customers
 
-Exactly WHO is the target?
+Exactly WHO is the target?  Explain your vision for this re-conceived target customer or client.
 
 ## Technology and Methodology
 
