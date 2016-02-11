@@ -22,9 +22,9 @@ We believe we are called to genuine kindness, empathy and serving others.  Susta
 
 * Microfinance - [Kiva](https://fellowsblog.kiva.org/), [Grameen](http://www.grameenfoundation.org/jobs/grameen-foundation-fellow), [Acumen Fund](http://acumen.org/blog/fellows/), [Mifos](http://mifos.org/)
 * Crowdfunding - [Kickstarter](https://www.krowdster.co/backer-directory), [IndieGoGo](https://www.indiegogo.com/partners/kiva), [OurCrowd](http://blog.ourcrowd.com/)
-* Self-directed IRA/401(k) programs - [Entrust](http://www.theentrustgroup.com/learning-center)
-* Open source
-* Shared resources -- AirBNB, Uber, Lyft, Turo
+* Self-directed IRA/401(k) programs - [Entrust](http://www.theentrustgroup.com/learning-center), [SOCAP](http://socialcapitalmarkets.net/)
+* Open source - [Git distributed revision control](https://github.com/blog), [Applications](http://aosabook.org/en/index.html), [Civilization](http://opensourceecology.org/), [Germplasm](http://opengermplasm.info/)
+* Shared resources -- [AirBNB](http://blog.airbnb.com/), [Uber](https://devblog.uber.com/), [Lyft](http://blog.lyft.com/), [Turo](https://turo.com/how-turo-works)
 
 # Fellows Project
 * Thiel Fellowship
