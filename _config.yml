@@ -7,3 +7,4 @@ github_username:  SustainFund
 
 # Build settings
 markdown: kramdown
+future: true

@@ -5,9 +5,9 @@
     <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 12:52:34 -0600</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 12:52:34 -0600</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Fri, 12 Feb 2016 17:04:23 -0600</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 17:04:23 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Sustain Fund Fellows Project</title>
@@ -39,7 +39,7 @@
 
 &lt;h1 id=&quot;fellows-project&quot;&gt;Fellows Project&lt;/h1&gt;
 
-&lt;p&gt;We see a lot of success stories … amongst those success stories, we wonder where the opportunities for improvement are.&lt;/p&gt;
+&lt;p&gt;We see a lot of success stories … amongst those success stories, we wonder where the opportunities for improvement are.  We also know that &lt;a href=&quot;http://thenextweb.com/insider/2015/05/18/why-startup-incubators-dont-work/#gref&quot;&gt;most startup incubators and accelerators don’t work&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Thiel Fellowship – could the projects conducted under these fellowships be more ~crowdly~ in nature? Is there anything magic about this particular age, ie what about people re-inventing themselves?&lt;/li&gt;
@@ -51,11 +51,11 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 02:30:00 -0600</pubDate>
-        <link>/blockchain/2016/02/08/Fellows.html</link>
-        <guid isPermaLink="true">/blockchain/2016/02/08/Fellows.html</guid>
+        <link>/fellows/2016/02/08/Fellows.html</link>
+        <guid isPermaLink="true">/fellows/2016/02/08/Fellows.html</guid>
         
         
-        <category>Blockchain</category>
+        <category>Fellows</category>
         
       </item>
     
