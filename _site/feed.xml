@@ -5,8 +5,8 @@
     <description>An Observe-Orient-Decide-Act productivity application designed for the difficult, hyper-competitive environment that entrepreneurs must enjoy and thrive in.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2016 17:32:57 -0600</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2016 17:32:57 -0600</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2016 10:18:35 -0600</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 10:18:35 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -33,26 +33,30 @@
   &lt;li&gt;Microfinance - &lt;a href=&quot;https://fellowsblog.kiva.org/&quot;&gt;Kiva&lt;/a&gt;, &lt;a href=&quot;http://www.grameenfoundation.org/jobs/grameen-foundation-fellow&quot;&gt;Grameen&lt;/a&gt;, &lt;a href=&quot;http://acumen.org/blog/fellows/&quot;&gt;Acumen Fund&lt;/a&gt;, &lt;a href=&quot;http://mifos.org/&quot;&gt;Mifos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Crowdfunding - &lt;a href=&quot;https://www.krowdster.co/backer-directory&quot;&gt;Kickstarter&lt;/a&gt;, &lt;a href=&quot;https://www.indiegogo.com/partners/kiva&quot;&gt;IndieGoGo&lt;/a&gt;, &lt;a href=&quot;http://blog.ourcrowd.com/&quot;&gt;OurCrowd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Self-directed IRA/401(k) programs - &lt;a href=&quot;http://www.theentrustgroup.com/learning-center&quot;&gt;Entrust&lt;/a&gt;, &lt;a href=&quot;http://socialcapitalmarkets.net/&quot;&gt;SOCAP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Open source - &lt;a href=&quot;https://github.com/blog&quot;&gt;Git distributed revision control&lt;/a&gt;, &lt;a href=&quot;http://aosabook.org/en/index.html&quot;&gt;Applications&lt;/a&gt;, &lt;a href=&quot;http://opensourceecology.org/&quot;&gt;Civiliza&lt;/a&gt;, &lt;a href=&quot;http://opengermplasm.info/&quot;&gt;Germplasm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Shared resources – &lt;a href=&quot;http://blog.airbnb.com/&quot;&gt;AirBNB&lt;/a&gt;, &lt;a href=&quot;https://devblog.uber.com/&quot;&gt;Uber&lt;/a&gt;, &lt;a href=&quot;http://blog.lyft.com/&quot;&gt;Lyft&lt;/a&gt;, &lt;a href=&quot;https://turo.com/how-turo-works&quot;&gt;Turo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open source technologies - &lt;a href=&quot;https://github.com/blog&quot;&gt;Git distributed revision control&lt;/a&gt;, &lt;a href=&quot;http://aosabook.org/en/index.html&quot;&gt;Applications&lt;/a&gt;, &lt;a href=&quot;http://opensourceecology.org/&quot;&gt;Civilization&lt;/a&gt;, &lt;a href=&quot;http://opengermplasm.info/&quot;&gt;Germplasm&lt;/a&gt;, [machine learning]&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Humans are doubling the amount of data that has been accumulated each year – the REAL challenge is to provide order and coherent structure to that in order to exploit the value in that data. There is still a very large role for better search technologies, scalable machine learning and deep intelligence.  An expanded opportunity set coupled with search and recommendation technologies allows for exercising of greater choice, more intense optimization and better allocation of resources for more valuable exploration and useful data acquisition.&lt;/p&gt;
+
+&lt;p&gt;We are particularly interested in open source fintech technologies because fintech is fundamentally about providing the infrastructure for the optimal allocation of resources. Can we improve the infrastructure and mechanisms of deal flow for entrepreneurs and investors?  Can we better harness the competitive efforts of many contenders to winnow out the largest winners and most worthy of resources in the idea space.  If we believe that resources should flow to those who generate value, can we use smart contracts in order to better reward effort of people working on different nanoenterprises?&lt;/p&gt;
 
 &lt;h1 id=&quot;fellows-project&quot;&gt;Fellows Project&lt;/h1&gt;
 
 &lt;p&gt;Underemployment of bright people is a real problem.  There are a lot of people who desperately want to work at something more meaningful while they build or retool their careers.  Those people basically understand that working on HARD things not only allows them to do two things simultaneously.  First of all, they produce something, but secondly the experience they gain also develops their long term productivity.&lt;/p&gt;
 
-&lt;p&gt;We see a lot of success stories worthy of emulation in the startup realm … amongst those success stories, there are serious opportunities for more aggressive improvement.  For example, in spite of issues with longitudinal or panel data on startups [because not all startup activity is reported and startup failures are quietly censored], we know that &lt;a href=&quot;http://thenextweb.com/insider/2015/05/18/why-startup-incubators-dont-work/&quot;&gt;most startup incubators and accelerators do not particularly work all that well&lt;/a&gt; – accelerators and incubators may facilitate and enable people to consider starting a new business who really should not jump in [yet] with their ideas.  Also, capital and resources will always tend to coalesce around a very few ideas.  Organic acceleration or designing proximity and serendipity through real estate may still matter … but quality will still matter. Simply increasing population density is not going guarantee significant network affects … you cannot fix stupidity and lack of initiative by just dumping stupid, lazy people into a bigger pile and enabling them with phony startup ideas. Solide ideas that will not die do not pay attention to boundaries and capital is pretty good at avoiding geographic constraints, too.&lt;/p&gt;
+&lt;p&gt;We see a lot of success stories worthy of emulation in the startup realm … amongst those success stories, there are serious opportunities for more aggressive improvement.  For example, in spite of issues with longitudinal or panel data on startups [because not all startup activity is reported and startup failures are quietly censored], we know that &lt;a href=&quot;http://thenextweb.com/insider/2015/05/18/why-startup-incubators-dont-work/&quot;&gt;most startup incubators and accelerators do not particularly work all that well&lt;/a&gt; – accelerators and incubators may facilitate and enable people to consider starting a new business who really should not jump in [yet] with their ideas.  Also, capital and resources will always tend to coalesce around a very few ideas.  Organic acceleration or designing proximity and serendipity through real estate may still matter … but quality will still matter. Simply increasing population density is not going guarantee significant network affects … you cannot fix stupidity and lack of initiative by just dumping stupid, lazy people into a bigger pile and enabling them with phony startup ideas. Solid ideas that will not die do not pay attention to boundaries and capital is pretty good at avoiding geographic constraints, too.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Thiel Fellowship – could the projects conducted under these fellowships be more ~crowdly~ in nature? Is there anything magic about this particular age, ie what about people re-inventing themselves?&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.ycombinator.com/faq/&quot;&gt;yCombinator&lt;/a&gt; – what would be necessary to pour gas this notion?  Could we broaden yCombinator to an ENERGY focus?&lt;/li&gt;
   &lt;li&gt;Nedspace – could this model be extended to other cities – to make it YMCA-like?&lt;/li&gt;
   &lt;li&gt;YearOfTheStartUp (YOTSU) – could we include more people in this program by keeping the tenure of participation in the program the same, but making the tenure of residency shorter?  What about weekend programs for entrepreneurs with jobs?&lt;/li&gt;
-  &lt;li&gt;MakerFaire – can MakerFaires be mobilize&lt;/li&gt;
+  &lt;li&gt;MakerFaire – can MakerFaires be mobilized or replicated to reach more people?&lt;/li&gt;
   &lt;li&gt;Hackathon – how do we conserve momentum?  What can we do to better “deal flow” the winners of these events into collaborative workspaces, accelerators, angel funds.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Can we improve deal flow – harnessing the competitive efforts of many contenders to winnow out the largest winners and most worthy of resources in the idea space.  Can we use smart contracts in order to better reward effort of people working on different nanoenterprises?&lt;/p&gt;
+&lt;p&gt;Opportunities abound. What are the barriers to entrepreneurs and investors being more selective in choosing and focusing upon their very best opportunities.&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Feb 2016 02:30:00 -0600</pubDate>
         <link>/fellows/2016/02/18/Fellows.html</link>
